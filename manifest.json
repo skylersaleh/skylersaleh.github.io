@@ -1,0 +1,7 @@
+{ 
+
+  "name": "SkyEmu", 
+  "short_name": "SkyEmu", 
+  "start_url": "SkyBoy/index.html", 
+  "display": "standalone" 
+} 
